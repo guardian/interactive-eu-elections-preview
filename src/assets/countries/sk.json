@@ -1,0 +1,188 @@
+{
+  "id": "SK",
+  "parentDivision": null,
+  "districts": null,
+  "seatsTotal": 13,
+  "seatsPercentEU": 1.73,
+  "groupSummary": {
+    "title": "SEATS_BY_GROUP_TITLE",
+    "status": "CONSTITUTIVE",
+    "time": null,
+    "groupDistribution": [
+      {
+        "id": "GP1401",
+        "seatsTotal": 6,
+        "seatsPercentEU": 0.8
+      },
+      {
+        "id": "GP1402",
+        "seatsTotal": 4,
+        "seatsPercentEU": 0.53
+      },
+      {
+        "id": "GP1403",
+        "seatsTotal": 2,
+        "seatsPercentEU": 0.27
+      },
+      {
+        "id": "GP1404",
+        "seatsTotal": 1,
+        "seatsPercentEU": 0.13
+      },
+      {
+        "id": "GP1405",
+        "seatsTotal": 0,
+        "seatsPercentEU": 0.0
+      },
+      {
+        "id": "GP1406",
+        "seatsTotal": 0,
+        "seatsPercentEU": 0.0
+      },
+      {
+        "id": "GP1407",
+        "seatsTotal": 0,
+        "seatsPercentEU": 0.0
+      },
+      {
+        "id": "NA",
+        "seatsTotal": 0,
+        "seatsPercentEU": 0.0
+      }
+    ]
+  },
+  "partySummary": {
+    "breakdownByPartyHeader": {
+      "title": "BREAKDOWN_BY_PARTY_TITLE",
+      "status": "CONSTITUTIVE",
+      "time": null
+    },
+    "resultsByPartyHeader": {
+      "title": "RESULTS_BY_PARTY_TITLE",
+      "status": "FINAL",
+      "time": null
+    },
+    "seatsByParty": [
+      {
+        "id": "SK01",
+        "type": "PARTY",
+        "seatsTotal": 1,
+        "votesPercent": 5.83,
+        "members": null,
+        "groupDistribution": [
+          {
+            "id": "GP1401",
+            "seatsTotal": 1,
+            "seatsPercentEU": 0.13
+          }
+        ]
+      },
+      {
+        "id": "SK02",
+        "type": "PARTY",
+        "seatsTotal": 1,
+        "votesPercent": 6.53,
+        "members": null,
+        "groupDistribution": [
+          {
+            "id": "GP1401",
+            "seatsTotal": 1,
+            "seatsPercentEU": 0.13
+          }
+        ]
+      },
+      {
+        "id": "SK03",
+        "type": "PARTY",
+        "seatsTotal": 2,
+        "votesPercent": 7.75,
+        "members": null,
+        "groupDistribution": [
+          {
+            "id": "GP1401",
+            "seatsTotal": 2,
+            "seatsPercentEU": 0.27
+          }
+        ]
+      },
+      {
+        "id": "SK04",
+        "type": "PARTY",
+        "seatsTotal": 2,
+        "votesPercent": 13.21,
+        "members": null,
+        "groupDistribution": [
+          {
+            "id": "GP1401",
+            "seatsTotal": 2,
+            "seatsPercentEU": 0.27
+          }
+        ]
+      },
+      {
+        "id": "SK05",
+        "type": "PARTY",
+        "seatsTotal": 4,
+        "votesPercent": 24.09,
+        "members": null,
+        "groupDistribution": [
+          {
+            "id": "GP1402",
+            "seatsTotal": 4,
+            "seatsPercentEU": 0.53
+          }
+        ]
+      },
+      {
+        "id": "SK06",
+        "type": "PARTY",
+        "seatsTotal": 1,
+        "votesPercent": 6.83,
+        "members": null,
+        "groupDistribution": [
+          {
+            "id": "GP1403",
+            "seatsTotal": 1,
+            "seatsPercentEU": 0.13
+          }
+        ]
+      },
+      {
+        "id": "SK07",
+        "type": "PARTY",
+        "seatsTotal": 1,
+        "votesPercent": 7.46,
+        "members": null,
+        "groupDistribution": [
+          {
+            "id": "GP1403",
+            "seatsTotal": 1,
+            "seatsPercentEU": 0.13
+          }
+        ]
+      },
+      {
+        "id": "SK08",
+        "type": "PARTY",
+        "seatsTotal": 1,
+        "votesPercent": 6.66,
+        "members": null,
+        "groupDistribution": [
+          {
+            "id": "GP1404",
+            "seatsTotal": 1,
+            "seatsPercentEU": 0.13
+          }
+        ]
+      },
+      {
+        "id": "SK90",
+        "type": "PARTY",
+        "seatsTotal": 0,
+        "votesPercent": 21.64,
+        "members": null,
+        "groupDistribution": null
+      }
+    ]
+  }
+}

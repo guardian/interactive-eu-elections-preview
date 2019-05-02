@@ -1,0 +1,283 @@
+{
+  "id": "DE",
+  "parentDivision": null,
+  "districts": null,
+  "seatsTotal": 96,
+  "seatsPercentEU": 12.78,
+  "groupSummary": {
+    "title": "SEATS_BY_GROUP_TITLE",
+    "status": "CONSTITUTIVE",
+    "time": null,
+    "groupDistribution": [
+      {
+        "id": "GP1401",
+        "seatsTotal": 34,
+        "seatsPercentEU": 4.53
+      },
+      {
+        "id": "GP1402",
+        "seatsTotal": 27,
+        "seatsPercentEU": 3.6
+      },
+      {
+        "id": "GP1403",
+        "seatsTotal": 8,
+        "seatsPercentEU": 1.07
+      },
+      {
+        "id": "GP1404",
+        "seatsTotal": 4,
+        "seatsPercentEU": 0.53
+      },
+      {
+        "id": "GP1405",
+        "seatsTotal": 8,
+        "seatsPercentEU": 1.07
+      },
+      {
+        "id": "GP1406",
+        "seatsTotal": 13,
+        "seatsPercentEU": 1.73
+      },
+      {
+        "id": "GP1407",
+        "seatsTotal": 0,
+        "seatsPercentEU": 0.0
+      },
+      {
+        "id": "NA",
+        "seatsTotal": 2,
+        "seatsPercentEU": 0.27
+      }
+    ]
+  },
+  "partySummary": {
+    "breakdownByPartyHeader": {
+      "title": "BREAKDOWN_BY_PARTY_TITLE",
+      "status": "CONSTITUTIVE",
+      "time": null
+    },
+    "resultsByPartyHeader": {
+      "title": "RESULTS_BY_PARTY_TITLE",
+      "status": "FINAL",
+      "time": null
+    },
+    "seatsByParty": [
+      {
+        "id": "DE01",
+        "type": "COALITION",
+        "seatsTotal": 34,
+        "votesPercent": 35.3,
+        "members": [
+          {
+            "id": "DE02",
+            "seatsTotal": 29,
+            "votesPercent": 0.0,
+            "groupDistribution": [
+              {
+                "id": "GP1401",
+                "seatsTotal": 29,
+                "seatsPercentEU": 3.86
+              }
+            ]
+          },
+          {
+            "id": "DE03",
+            "seatsTotal": 5,
+            "votesPercent": 0.0,
+            "groupDistribution": [
+              {
+                "id": "GP1401",
+                "seatsTotal": 5,
+                "seatsPercentEU": 0.67
+              }
+            ]
+          }
+        ],
+        "groupDistribution": [
+          {
+            "id": "GP1401",
+            "seatsTotal": 34,
+            "seatsPercentEU": 4.53
+          }
+        ]
+      },
+      {
+        "id": "DE04",
+        "type": "PARTY",
+        "seatsTotal": 27,
+        "votesPercent": 27.3,
+        "members": null,
+        "groupDistribution": [
+          {
+            "id": "GP1402",
+            "seatsTotal": 27,
+            "seatsPercentEU": 3.6
+          }
+        ]
+      },
+      {
+        "id": "DE05",
+        "type": "PARTY",
+        "seatsTotal": 1,
+        "votesPercent": 0.7,
+        "members": null,
+        "groupDistribution": [
+          {
+            "id": "GP1403",
+            "seatsTotal": 1,
+            "seatsPercentEU": 0.13
+          }
+        ]
+      },
+      {
+        "id": "DE06",
+        "type": "PARTY",
+        "seatsTotal": 7,
+        "votesPercent": 7.1,
+        "members": null,
+        "groupDistribution": [
+          {
+            "id": "GP1403",
+            "seatsTotal": 7,
+            "seatsPercentEU": 0.93
+          }
+        ]
+      },
+      {
+        "id": "DE07",
+        "type": "PARTY",
+        "seatsTotal": 1,
+        "votesPercent": 1.5,
+        "members": null,
+        "groupDistribution": [
+          {
+            "id": "GP1404",
+            "seatsTotal": 1,
+            "seatsPercentEU": 0.13
+          }
+        ]
+      },
+      {
+        "id": "DE08",
+        "type": "PARTY",
+        "seatsTotal": 3,
+        "votesPercent": 3.4,
+        "members": null,
+        "groupDistribution": [
+          {
+            "id": "GP1404",
+            "seatsTotal": 3,
+            "seatsPercentEU": 0.4
+          }
+        ]
+      },
+      {
+        "id": "DE09",
+        "type": "PARTY",
+        "seatsTotal": 1,
+        "votesPercent": 1.2,
+        "members": null,
+        "groupDistribution": [
+          {
+            "id": "GP1405",
+            "seatsTotal": 1,
+            "seatsPercentEU": 0.13
+          }
+        ]
+      },
+      {
+        "id": "DE10",
+        "type": "PARTY",
+        "seatsTotal": 7,
+        "votesPercent": 7.4,
+        "members": null,
+        "groupDistribution": [
+          {
+            "id": "GP1405",
+            "seatsTotal": 7,
+            "seatsPercentEU": 0.93
+          }
+        ]
+      },
+      {
+        "id": "DE11",
+        "type": "PARTY",
+        "seatsTotal": 1,
+        "votesPercent": 0.6,
+        "members": null,
+        "groupDistribution": [
+          {
+            "id": "GP1406",
+            "seatsTotal": 1,
+            "seatsPercentEU": 0.13
+          }
+        ]
+      },
+      {
+        "id": "DE12",
+        "type": "PARTY",
+        "seatsTotal": 1,
+        "votesPercent": 1.4,
+        "members": null,
+        "groupDistribution": [
+          {
+            "id": "GP1406",
+            "seatsTotal": 1,
+            "seatsPercentEU": 0.13
+          }
+        ]
+      },
+      {
+        "id": "DE13",
+        "type": "PARTY",
+        "seatsTotal": 11,
+        "votesPercent": 10.7,
+        "members": null,
+        "groupDistribution": [
+          {
+            "id": "GP1406",
+            "seatsTotal": 11,
+            "seatsPercentEU": 1.46
+          }
+        ]
+      },
+      {
+        "id": "DE14",
+        "type": "PARTY",
+        "seatsTotal": 1,
+        "votesPercent": 0.6,
+        "members": null,
+        "groupDistribution": [
+          {
+            "id": "NA",
+            "seatsTotal": 1,
+            "seatsPercentEU": 0.13
+          }
+        ]
+      },
+      {
+        "id": "DE15",
+        "type": "PARTY",
+        "seatsTotal": 1,
+        "votesPercent": 1.0,
+        "members": null,
+        "groupDistribution": [
+          {
+            "id": "NA",
+            "seatsTotal": 1,
+            "seatsPercentEU": 0.13
+          }
+        ]
+      },
+      {
+        "id": "DE90",
+        "type": "PARTY",
+        "seatsTotal": 0,
+        "votesPercent": 1.8,
+        "members": null,
+        "groupDistribution": null
+      }
+    ]
+  }
+}

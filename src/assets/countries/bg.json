@@ -1,0 +1,184 @@
+{
+  "id": "BG",
+  "parentDivision": null,
+  "districts": null,
+  "seatsTotal": 17,
+  "seatsPercentEU": 2.26,
+  "groupSummary": {
+    "title": "SEATS_BY_GROUP_TITLE",
+    "status": "CONSTITUTIVE",
+    "time": null,
+    "groupDistribution": [
+      {
+        "id": "GP1401",
+        "seatsTotal": 7,
+        "seatsPercentEU": 0.93
+      },
+      {
+        "id": "GP1402",
+        "seatsTotal": 4,
+        "seatsPercentEU": 0.53
+      },
+      {
+        "id": "GP1403",
+        "seatsTotal": 2,
+        "seatsPercentEU": 0.27
+      },
+      {
+        "id": "GP1404",
+        "seatsTotal": 4,
+        "seatsPercentEU": 0.53
+      },
+      {
+        "id": "GP1405",
+        "seatsTotal": 0,
+        "seatsPercentEU": 0.0
+      },
+      {
+        "id": "GP1406",
+        "seatsTotal": 0,
+        "seatsPercentEU": 0.0
+      },
+      {
+        "id": "GP1407",
+        "seatsTotal": 0,
+        "seatsPercentEU": 0.0
+      },
+      {
+        "id": "NA",
+        "seatsTotal": 0,
+        "seatsPercentEU": 0.0
+      }
+    ]
+  },
+  "partySummary": {
+    "breakdownByPartyHeader": {
+      "title": "BREAKDOWN_BY_PARTY_TITLE",
+      "status": "CONSTITUTIVE",
+      "time": null
+    },
+    "resultsByPartyHeader": {
+      "title": "RESULTS_BY_PARTY_TITLE",
+      "status": "FINAL",
+      "time": null
+    },
+    "seatsByParty": [
+      {
+        "id": "BG01",
+        "type": "COALITION",
+        "seatsTotal": 1,
+        "votesPercent": 0.0,
+        "members": [
+          {
+            "id": "BG02",
+            "seatsTotal": 1,
+            "votesPercent": 6.45,
+            "groupDistribution": [
+              {
+                "id": "GP1401",
+                "seatsTotal": 1,
+                "seatsPercentEU": 0.13
+              }
+            ]
+          }
+        ],
+        "groupDistribution": [
+          {
+            "id": "GP1401",
+            "seatsTotal": 1,
+            "seatsPercentEU": 0.13
+          }
+        ]
+      },
+      {
+        "id": "BG03",
+        "type": "PARTY",
+        "seatsTotal": 6,
+        "votesPercent": 30.4,
+        "members": null,
+        "groupDistribution": [
+          {
+            "id": "GP1401",
+            "seatsTotal": 6,
+            "seatsPercentEU": 0.8
+          }
+        ]
+      },
+      {
+        "id": "BG04",
+        "type": "PARTY",
+        "seatsTotal": 4,
+        "votesPercent": 18.93,
+        "members": null,
+        "groupDistribution": [
+          {
+            "id": "GP1402",
+            "seatsTotal": 4,
+            "seatsPercentEU": 0.53
+          }
+        ]
+      },
+      {
+        "id": "BG05",
+        "type": "COALITION",
+        "seatsTotal": 2,
+        "votesPercent": 10.66,
+        "members": [
+          {
+            "id": "BG06",
+            "seatsTotal": 1,
+            "votesPercent": 0.0,
+            "groupDistribution": [
+              {
+                "id": "GP1403",
+                "seatsTotal": 1,
+                "seatsPercentEU": 0.13
+              }
+            ]
+          },
+          {
+            "id": "BG07",
+            "seatsTotal": 1,
+            "votesPercent": 0.0,
+            "groupDistribution": [
+              {
+                "id": "GP1403",
+                "seatsTotal": 1,
+                "seatsPercentEU": 0.13
+              }
+            ]
+          }
+        ],
+        "groupDistribution": [
+          {
+            "id": "GP1403",
+            "seatsTotal": 2,
+            "seatsPercentEU": 0.27
+          }
+        ]
+      },
+      {
+        "id": "BG08",
+        "type": "PARTY",
+        "seatsTotal": 4,
+        "votesPercent": 17.27,
+        "members": null,
+        "groupDistribution": [
+          {
+            "id": "GP1404",
+            "seatsTotal": 4,
+            "seatsPercentEU": 0.53
+          }
+        ]
+      },
+      {
+        "id": "BG90",
+        "type": "PARTY",
+        "seatsTotal": 0,
+        "votesPercent": 16.29,
+        "members": null,
+        "groupDistribution": null
+      }
+    ]
+  }
+}

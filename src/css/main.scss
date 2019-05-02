@@ -1,0 +1,26 @@
+@import "mq";
+@import "fonts";
+@import "palette";
+// Uncomment for embeds
+//@import "embed";
+// Uncomment for full screen (including immersive article main media)
+//@import "fullscreen";
+.element-atom,
+.interactive-atom {
+    margin: 0 !important;
+}
+
+.border{
+	fill-opacity:0;
+	stroke: white;
+	stroke-width: 2px;
+}
+
+.GP1401{fill:#00B2FF;}
+.GP1402{fill:#FF1921;}
+.GP1403{fill:#056DA1;}
+.GP1404{fill:#FF7F00;}
+.GP1405{fill:#CC0A11;}
+.GP1406{fill:#91B52D;}
+.GP1407{fill:#951D7A;}
+.NA{fill:#DADADA;}

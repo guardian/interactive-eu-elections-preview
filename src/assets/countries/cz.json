@@ -1,0 +1,200 @@
+{
+  "id": "CZ",
+  "parentDivision": null,
+  "districts": null,
+  "seatsTotal": 21,
+  "seatsPercentEU": 2.8,
+  "groupSummary": {
+    "title": "SEATS_BY_GROUP_TITLE",
+    "status": "CONSTITUTIVE",
+    "time": null,
+    "groupDistribution": [
+      {
+        "id": "GP1401",
+        "seatsTotal": 7,
+        "seatsPercentEU": 0.93
+      },
+      {
+        "id": "GP1402",
+        "seatsTotal": 4,
+        "seatsPercentEU": 0.53
+      },
+      {
+        "id": "GP1403",
+        "seatsTotal": 2,
+        "seatsPercentEU": 0.27
+      },
+      {
+        "id": "GP1404",
+        "seatsTotal": 4,
+        "seatsPercentEU": 0.53
+      },
+      {
+        "id": "GP1405",
+        "seatsTotal": 3,
+        "seatsPercentEU": 0.4
+      },
+      {
+        "id": "GP1406",
+        "seatsTotal": 0,
+        "seatsPercentEU": 0.0
+      },
+      {
+        "id": "GP1407",
+        "seatsTotal": 1,
+        "seatsPercentEU": 0.13
+      },
+      {
+        "id": "NA",
+        "seatsTotal": 0,
+        "seatsPercentEU": 0.0
+      }
+    ]
+  },
+  "partySummary": {
+    "breakdownByPartyHeader": {
+      "title": "BREAKDOWN_BY_PARTY_TITLE",
+      "status": "CONSTITUTIVE",
+      "time": null
+    },
+    "resultsByPartyHeader": {
+      "title": "RESULTS_BY_PARTY_TITLE",
+      "status": "FINAL",
+      "time": null
+    },
+    "seatsByParty": [
+      {
+        "id": "CZ01",
+        "type": "COALITION",
+        "seatsTotal": 3,
+        "votesPercent": 9.95,
+        "members": [
+          {
+            "id": "CZ02",
+            "seatsTotal": 3,
+            "votesPercent": 0.0,
+            "groupDistribution": [
+              {
+                "id": "GP1401",
+                "seatsTotal": 3,
+                "seatsPercentEU": 0.4
+              }
+            ]
+          }
+        ],
+        "groupDistribution": [
+          {
+            "id": "GP1401",
+            "seatsTotal": 3,
+            "seatsPercentEU": 0.4
+          }
+        ]
+      },
+      {
+        "id": "CZ03",
+        "type": "COALITION",
+        "seatsTotal": 4,
+        "votesPercent": 15.95,
+        "members": [
+          {
+            "id": "CZ04",
+            "seatsTotal": 4,
+            "votesPercent": 0.0,
+            "groupDistribution": [
+              {
+                "id": "GP1401",
+                "seatsTotal": 4,
+                "seatsPercentEU": 0.53
+              }
+            ]
+          }
+        ],
+        "groupDistribution": [
+          {
+            "id": "GP1401",
+            "seatsTotal": 4,
+            "seatsPercentEU": 0.53
+          }
+        ]
+      },
+      {
+        "id": "CZ05",
+        "type": "PARTY",
+        "seatsTotal": 4,
+        "votesPercent": 14.17,
+        "members": null,
+        "groupDistribution": [
+          {
+            "id": "GP1402",
+            "seatsTotal": 4,
+            "seatsPercentEU": 0.53
+          }
+        ]
+      },
+      {
+        "id": "CZ06",
+        "type": "PARTY",
+        "seatsTotal": 2,
+        "votesPercent": 7.67,
+        "members": null,
+        "groupDistribution": [
+          {
+            "id": "GP1403",
+            "seatsTotal": 2,
+            "seatsPercentEU": 0.27
+          }
+        ]
+      },
+      {
+        "id": "CZ07",
+        "type": "PARTY",
+        "seatsTotal": 4,
+        "votesPercent": 16.13,
+        "members": null,
+        "groupDistribution": [
+          {
+            "id": "GP1404",
+            "seatsTotal": 4,
+            "seatsPercentEU": 0.53
+          }
+        ]
+      },
+      {
+        "id": "CZ08",
+        "type": "PARTY",
+        "seatsTotal": 3,
+        "votesPercent": 10.98,
+        "members": null,
+        "groupDistribution": [
+          {
+            "id": "GP1405",
+            "seatsTotal": 3,
+            "seatsPercentEU": 0.4
+          }
+        ]
+      },
+      {
+        "id": "CZ09",
+        "type": "PARTY",
+        "seatsTotal": 1,
+        "votesPercent": 5.24,
+        "members": null,
+        "groupDistribution": [
+          {
+            "id": "GP1407",
+            "seatsTotal": 1,
+            "seatsPercentEU": 0.13
+          }
+        ]
+      },
+      {
+        "id": "CZ90",
+        "type": "PARTY",
+        "seatsTotal": 0,
+        "votesPercent": 19.91,
+        "members": null,
+        "groupDistribution": null
+      }
+    ]
+  }
+}

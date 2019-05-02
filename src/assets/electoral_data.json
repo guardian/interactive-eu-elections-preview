@@ -1,0 +1,51 @@
+{
+	"countries":
+	[
+	{"code":"AT", "country":"Austria"},
+	{"code":"BE", "country":"Belgium"},
+	{"code":"BG", "country":"Bulgaria"},
+	{"code":"CY", "country":"Cyprus"},
+	{"code":"CZ", "country":"Czech Republic"},
+	{"code":"DE", "country":"Germany"},
+	{"code":"DK", "country":"Denmark"},
+	{"code":"EE", "country":"Estonia"},
+	{"code":"EL", "country":"Greece"},
+	{"code":"ES", "country":"Spain"},
+	{"code":"FBE", "country":"Flanders Belgium"},
+	{"code":"FI", "country":"Finland"},
+	{"code":"FR", "country":"France"},
+	{"code":"GB", "country":"Great Britain"},
+	{"code":"GBE", "country":"German Belgium"},
+	{"code":"HR", "country":"Croatia"},
+	{"code":"HU", "country":"Hungary"},
+	{"code":"IE", "country":"Ireland"},
+	{"code":"IT", "country":"Italy"},
+	{"code":"LT", "country":"Lithuania"},
+	{"code":"LU", "country":"Luxembourg"},
+	{"code":"LV", "country":"Latvia"},
+	{"code":"MT", "country":"Malta"},
+	{"code":"NI", "country":"Nothern Ireland"},
+	{"code":"NL", "country":"Netherlands"},
+	{"code":"PL", "country":"Poland"},
+	{"code":"PT", "country":"Portugal"},
+	{"code":"RO", "country":"Romania"},
+	{"code":"SE", "country":"Sweden"},
+	{"code":"SI", "country":"Slovenia"},
+	{"code":"SK", "country":"Slovakia"},
+	{"code":"UK", "country":"United Kingdom"},
+	{"code":"WBE", "country":"Wallonia Belgium"}
+	],
+
+	"groups":
+	[
+	{"id":"GP1401","groupAcronym": "EPP","groupLongName": "Group of the European People\u0027s Party (Christian Democrats)"},
+    {"id":"GP1402","groupAcronym": "S\u0026D","groupLongName": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"},
+    {"id":"GP1403","groupAcronym": "ECR","groupLongName": "European Conservatives and Reformists Group"},
+    {"id":"GP1404", "groupAcronym": "ALDE","groupLongName": "Group of the Alliance of Liberals and Democrats for Europe"},
+    {"id":"GP1405","groupAcronym": "GUE/NGL","groupLongName": "Confederal Group of the European United Left - Nordic Green Left"},
+    {"id":"GP1406","groupAcronym": "Greens/EFA","groupLongName": "Group of the Greens/European Free Alliance"},
+    {"id":"GP1407","groupAcronym": "EFDD","groupLongName": "Europe of Freedom and Direct Democracy Group"},
+    {"id":"NA","groupAcronym": "NI","groupLongName": "Non-attached Members"}
+	]
+}
+
